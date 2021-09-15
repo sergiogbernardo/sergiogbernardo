@@ -18,8 +18,11 @@ Here are some ideas to get you started:
  
 https://sergiogbernardo.github.io/
 
+<html>
+ <body>
+ 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+</body>
 <div>
   <a href="https://github.com/sergiogbernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiogbernardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -48,5 +51,7 @@ https://sergiogbernardo.github.io/
   ![Snake animation](https://github.com/sergiogbernardo/sergiogbernardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ </html>
+ 
 
 
