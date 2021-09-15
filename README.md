@@ -18,15 +18,14 @@ Here are some ideas to get you started:
  
 https://sergiogbernardo.github.io/
 
-<html>
- <body>
- 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</body>
+
 <div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <a href="https://github.com/sergiogbernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiogbernardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogbernardo&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://www.linkedin.com/in/sergio-bernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -46,7 +45,6 @@ https://sergiogbernardo.github.io/
  
 <div> 
 
-  <a href="https://www.linkedin.com/in/sergio-bernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/sergiogbernardo/sergiogbernardo/blob/output/github-contribution-grid-snake.svg)
  
